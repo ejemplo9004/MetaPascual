@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_MorionAparecer
+  m_Shader: {fileID: -6465566751694194690, guid: 59b0fdc4ce9007948945a1bcdf4296e2, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_00b56cc88bce4cdf9c44874213b63d62: -0.34
+    - Vector1_4190c8eb9df0461380ce34d41c56b187: 0
+    - Vector1_424afd743b274fb689883eed67e538af: 0.5
+    - Vector1_895ed5b4a1f44c36b9a1250c074e4545: 1
+    - Vector1_b1bd3fef16ad4065ae863f7893a39380: 0.94
+    - _estado: 1
+    m_Colors:
+    - Color_d8e9cef18cdb4835b5d1536ac0116c8c: {r: 0.43252265, g: 0.754717, b: 0.15236738, a: 1}
+    - Vector3_0c39664b71bd472aa5f8edc411d2d935: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
